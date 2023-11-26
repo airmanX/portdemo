@@ -6,5 +6,5 @@
   properties:
     readme: string
     url: https://example.com
-    language: string
+    language: []
   relations: {}
