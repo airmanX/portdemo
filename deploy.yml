@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       language:
-        type: enum
+        type: string
       port_payload:
         required: true
         description: Port's payload, including details for who triggered the action and
